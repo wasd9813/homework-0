@@ -6,8 +6,15 @@ PS. 中文 or English are both fine.
 
 ## Brief self-introduction [max 500 words]
 
+hi!I'm YONG-TENG LU.
+
 ## Why Computer Vision? [max 500 words]
+
+For fun!
 
 ## What do you want to achieve in the course? [max 500 words]
 
+Computer Vision!!
+
 ## Due Date: Sept. 28, 2018
+		Um...sorry about that
